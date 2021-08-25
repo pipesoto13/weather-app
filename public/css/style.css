@@ -1,7 +1,18 @@
+body {
+    height: 100vw;
+}
+
 h1 {
     color: cornflowerblue;
 }
 
 img {
     width: 350px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: darkblue;
 }
